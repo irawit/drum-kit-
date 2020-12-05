@@ -1,0 +1,24 @@
+body{
+    background-color: aqua;
+}
+.main{
+    text-align: center;
+}
+.set{
+    margin: 10%;
+    display: flex;
+    justify-content: space-around;
+
+}
+.drum{
+    background-color: darkgreen;
+    color: snow;
+    padding: 20px;
+    border: solid 3px black;
+}
+
+.pressed{
+    
+    background-color: rgb(113, 13, 126);
+    border: solid 5px gold;
+}
